@@ -1,0 +1,29 @@
+{
+  "name": "perfect-pitch",
+  "version": "1.0.0",
+  "description": "Perfect Pitch",
+  "main": "index.js",
+  "scripts": {
+    "dev": "budo index.js",
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emkay/perfect-pitch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emkay/perfect-pitch/issues"
+  },
+  "homepage": "https://github.com/emkay/perfect-pitch#readme",
+  "dependencies": {
+    "audio-context": "^0.1.0",
+    "octavian": "^2.2.0"
+  },
+  "devDependencies": {
+    "budo": "^8.3.0",
+    "standard": "^7.1.2"
+  }
+}
